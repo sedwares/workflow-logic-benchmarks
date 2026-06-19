@@ -6,7 +6,7 @@ Every benchmark on the channel publishes its harness here. You can run them your
 
 ---
 
-## Video #1 — DuckDB vs Polars vs pandas (3M-row group-by)
+## 🎥 [Video #1: Why Polars is 8.7x Faster Than Pandas](https://youtu.be/jQuHmowN43I)
 
 **Dataset:** NYC TLC Yellow Taxi Trips, January 2024 (~3M rows, downloaded automatically)
 
