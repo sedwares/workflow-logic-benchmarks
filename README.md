@@ -22,7 +22,7 @@ GROUP BY passenger_count
 
 **Methodology:** median of 3 runs per engine, wall-clock time.
 
-**Results — MacBook Air (fill in your specs):**
+**Results — MacBook Air (M4,2025,24GB):**
 
 | Engine | Median runtime |
 |--------|---------------:|
